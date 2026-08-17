@@ -83,3 +83,4 @@ O projeto também mostrou na prática que pequenos erros no desenvolvimento ou n
 * Uso de multímetro
 * Diagnóstico e correção de falhas
 
+Avaliação: Nota máxima no projeto, conforme avaliação da disciplina.
